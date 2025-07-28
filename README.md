@@ -62,6 +62,6 @@ The final model is deployed using Gradio to provide an easy-to-use web interface
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/early-disease-prediction.git
+   git clone https://github.com/<pataballapravallika>/early-disease-prediction.git
    cd early-disease-prediction
 
