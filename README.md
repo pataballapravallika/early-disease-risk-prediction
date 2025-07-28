@@ -54,7 +54,7 @@ The models were evaluated and compared based on their performance. The best-perf
 ## 🚀 Deployment
 The final model is deployed using Gradio to provide an easy-to-use web interface where users can input their health metrics and get instant predictions.
 
-🔗 Hosted on: [Gradio Public URL or Hugging Face Space] *https://37ad4a7f8bba780427.gradio.live/*
+🔗 Hosted on: [Gradio Public URL or Hugging Face Space] *https://3cf7edb8fb7786d933.gradio.live/*
 
 ---
 
