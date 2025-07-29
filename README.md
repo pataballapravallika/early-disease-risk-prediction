@@ -72,7 +72,8 @@ The final model is deployed using Gradio to provide an easy-to-use web interface
 
 
 ## sample output Screenshot
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44025d5d-48dd-4001-afe3-10f8fb6c41de" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6c55c664-82f3-4dea-97f3-3eaaabc1d005" />
+
 
 ---
 
